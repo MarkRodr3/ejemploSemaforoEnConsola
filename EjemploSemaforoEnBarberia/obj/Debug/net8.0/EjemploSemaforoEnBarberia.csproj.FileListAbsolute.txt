@@ -1,0 +1,14 @@
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\bin\Debug\net8.0\EjemploSemaforoEnBarberia.exe
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\bin\Debug\net8.0\EjemploSemaforoEnBarberia.deps.json
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\bin\Debug\net8.0\EjemploSemaforoEnBarberia.runtimeconfig.json
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\bin\Debug\net8.0\EjemploSemaforoEnBarberia.dll
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\bin\Debug\net8.0\EjemploSemaforoEnBarberia.pdb
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.AssemblyInfoInputs.cache
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.AssemblyInfo.cs
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.dll
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\refint\EjemploSemaforoEnBarberia.dll
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.pdb
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\EjemploSemaforoEnBarberia.genruntimeconfig.cache
+C:\Users\Marco\OneDrive\Escritorio\EjemploSemaforo\EnConsola\EjemploSemaforoEnBarberia\EjemploSemaforoEnBarberia\obj\Debug\net8.0\ref\EjemploSemaforoEnBarberia.dll
